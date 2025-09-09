@@ -205,7 +205,7 @@ Dataset is: _collected_, _anonymization-in-progress_
 This data is made available under the [CC BY 4.0](./LICENSE.md) by the [Research group Energy Transition, Windesheim University of Applied Sciences](https://windesheim.nl/energietransitie) 
 
 ## Credits
-* Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte) · Twitter [@HeNRGi](https://twitter.com/HeNRGi)
+* Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte)
 * [Stichting 50 Tinten Groen Assendorp](https://50tintengroenassendorp.nl/)
 
 Thanks go to those who are the ultimate source of this dataset:
